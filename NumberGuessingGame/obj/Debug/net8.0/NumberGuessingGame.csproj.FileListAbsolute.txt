@@ -12,3 +12,4 @@
 /Users/enrico/Developer/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.pdb
 /Users/enrico/Developer/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.genruntimeconfig.cache
 /Users/enrico/Developer/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/net8.0/ref/NumberGuessingGame.dll
+/Users/enrico/Developer/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.sourcelink.json
